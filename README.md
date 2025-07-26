@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👩‍💻 Olá! Eu sou a Heloisa ✨
 
-<!--
-**heloisa0804/heloisa0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da informática para internet    
+🚀 Em busca de oportunidades para crescer com criatividade e tecnologia
 
-Here are some ideas to get you started:
+### 💡 Sobre mim:
+Sou dedicada, curiosa e amo aprender coisas novas.  
+Tenho experiência com desenvolvimento web, front-end, back-end, mobile e estou sempre buscando melhorar minhas habilidades técnicas e criativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas que uso:
+- HTML5, CSS3, JavaScript
+- PHP (com orientação a objetos)
+- MySQL, Git e GitHub
+- Figma, Canva, Photoshop
+- CapCut, Premiere (edição de vídeo)
+
+---
+
+### 🌟 Projetos em Destaque
+
+🔗 [CRUD de Corretores - PHP e MySQL](https://github.com/heloisa0804/CRUD-Corretores)  
+
+
