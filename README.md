@@ -13,8 +13,10 @@ Tenho experiência com desenvolvimento web, front-end, back-end, mobile e estou 
 - HTML5, CSS3, JavaScript
 - PHP (com orientação a objetos)
 - MySQL, Git e GitHub
-- Figma, Canva, Photoshop
-- CapCut, Premiere (edição de vídeo)
+- Mobile
+- Figma
+- CapCut (edição de vídeo)
+- Uso e sei conversar com a Ia
 
 ---
 
